@@ -79,7 +79,7 @@ Through this project, I practiced:
 
 ## Author
 
-Jhoon
+### Janardhan M
 
 Aspiring Data Scientist | Python Learner | AI & Data Science Enthusiast
 
